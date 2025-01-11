@@ -1,0 +1,9 @@
+[submodule "CourierDesktopClient"]
+	path = CourierDesktopClient
+	url = https://github.com/Apetrei-Denis-30125/CourierDesktopClient.git
+[submodule "WebClient"]
+	path = WebClient
+	url = https://github.com/Apetrei-Denis-30125/WebClient.git
+[submodule "CourierManagementBackend"]
+	path = CourierManagementBackend
+	url = https://github.com/Apetrei-Denis-30125/CourierManagementBackend
